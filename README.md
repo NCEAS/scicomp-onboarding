@@ -1,4 +1,5 @@
-# scicomp-onboarding
+# Onboarding for new team members on NCEAS Data Science Support Team
+
 This repo is for onboarding materials for new team members (currently a work-in-progress).
 
 Listed below is a mix of papers and tutorials about concepts we are trying to promote to the researchers we support and tools and workflows we use in our team.  The goal is to give context about open and reproducible science which NCEAS is promoting in the scientific community.  Also included is information on getting access to the tools you will need and some general information about working at NCEAS.
