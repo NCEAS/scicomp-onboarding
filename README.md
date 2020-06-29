@@ -69,7 +69,7 @@ We use the Aurora server (located at aurora.nceas.ucsb.edu) when working with RS
 
 ---
 
-### Recurrring NCEAS Meetings
+### Recurring NCEAS Meetings
 
 There are a number of recurring meetings that you are encouraged to attend.  At your hiring, you should recieve an invitation to the NCEAS Google Calendar which has links to all the meeting information.  These include Coffee Klatch (a coffee social), Hackey Hours, and the Early Career Researcher Community Forum.
 
@@ -79,7 +79,7 @@ There are a number of recurring meetings that you are encouraged to attend.  At 
 
 #### Hours & Kronos
 
-We submit hours online through (Kronos)[https://ucsb.kronos.net/wfc/navigator/logonWithUID].  You should recieve an email at the start of your employment adding you to an email listserv that will send reminders on when to submit your timesheet.
+We submit hours online through [Kronos](https://ucsb.kronos.net/wfc/navigator/logonWithUID).  You should recieve an email at the start of your employment adding you to an email listserv that will send reminders on when to submit your timesheet.
 
 We also have a Google Calendar to create our schedules. Julien will add you if you have not been already.
 
