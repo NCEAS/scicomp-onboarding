@@ -1,8 +1,8 @@
 # Onboarding for new team members on NCEAS Data Science Support Team
 
-This repo is for onboarding materials for new team members (currently a work-in-progress).
+This repo is for onboarding materials for new team members (constatnly evolving ressource).
 
-Listed below is a mix of papers and tutorials about concepts we are trying to promote to the researchers we support and tools and workflows we use in our team.  The goal is to give context about open and reproducible science which NCEAS is promoting in the scientific community.  Also included is information on getting access to the tools you will need and some general information about working at NCEAS.
+Listed below is a mix of papers and tutorials about concepts we aim to promote to the researchers we support and tools and workflows we use in our team.  The goal is to give context about open and reproducible science which NCEAS is promoting in the scientific community.  Also included is information on getting access to the tools you will need and some general information about working at NCEAS.
 
 ---
 
@@ -66,13 +66,13 @@ Finally, complete this short tutorial on using Slack: https://pages.github.nceas
 
 #### 3. Aurora Server
 
-We use the Aurora server (located at aurora.nceas.ucsb.edu) when working with RStudio or JupyterHub. Thomas Hetmank will contact you with directions for setting up an account.
+We use the Aurora server (located at aurora.nceas.ucsb.edu) when working with RStudio or JupyterHub. Send an email to help@nceas.ucsb.edu requesting an account mentioning you are working with Julien. Thomas Hetmank or Nick Outin will contact you with directions for setting up an account.
 
 ---
 
 ### Recurring NCEAS Meetings
 
-There are a number of recurring meetings that you are encouraged to attend.  At your hiring, you should recieve an invitation to the NCEAS Google Calendar which has links to all the meeting information.  These include Coffee Klatch (a coffee social), Hackey Hours, and the Early Career Researcher Community Forum.
+There are a number of recurring meetings that you are encouraged to attend.  At your hiring, you should recieve an invitation to the NCEAS Google Calendar which has links to all the meeting information.  These include Coffee Klatch (a coffee social), Hacky Hours, and the Early Career Researcher Community Forum.
 
 ---
 
