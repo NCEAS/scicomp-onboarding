@@ -30,6 +30,8 @@ Chapters [9](https://science-for-nature-and-people.github.io/2020-data-collab-wo
 
 Finally, please complete this [R Training Assessment](https://cosima.nceas.ucsb.edu/r-self-assessment/) to self-assess your skills in R.
 
+Schedule a session with Julien to debrief on your experience.
+
 ---
 
 ### Programs & Resources
