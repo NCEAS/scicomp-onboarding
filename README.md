@@ -60,7 +60,7 @@ There are a number of recurring meetings that you are encouraged to attend.  At 
 
 ---
 
-#### Data Science background and tutorials
+### Data Science background and tutorials
 
 For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for SNAPP postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
 
