@@ -8,7 +8,7 @@ Listed below is a mix of papers and tutorials about concepts we aim to promote t
 
 ### Introductory Reading Materials
 
-#### Papers
+#### Background information
 
 * Hampton et al 2015. ["The Tao of open science for ecology"](https://doi.org/10.1890/ES14-00402.1)
 
@@ -17,20 +17,6 @@ Listed below is a mix of papers and tutorials about concepts we aim to promote t
 * Fegraus et al 2005. ["Maximizing the Value of Ecological Data with Structured Metadata:"](https://doi.org/10.1890/0012-9623%282005%2986[158:MTVOED]2.0.CO;2)
 
 * Heidborn 2008. ["Shedding Light on the Dark Data in the Long Tail of Science"](http://doi.org/10.1353/lib.0.0036)
-
-#### Background information
-
-For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for SNAPP postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
-
-Chapters [3](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/working-on-a-remote-machine.html), [5](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/introduction-to-r-and-rmarkdown.html), [8](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/linux-and-the-command-line.html) are a good background about the tools we use.
-
-Chapters [9](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-modeling-tidy-data.html), [10](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-cleaning-and-manipulation.html) are a good introduction to data modeling.
-
-#### R Assessment
-
-Finally, please complete this [R Training Assessment](https://cosima.nceas.ucsb.edu/r-self-assessment/) to self-assess your skills in R.
-
-Schedule a session with Julien to debrief on your experience.
 
 ---
 
@@ -68,11 +54,25 @@ Finally, complete this short tutorial on using Slack: https://pages.github.nceas
 
 We use the Aurora server (located at aurora.nceas.ucsb.edu) when working with RStudio or JupyterHub. Send an email to help@nceas.ucsb.edu requesting an account mentioning you are working with Julien. Thomas Hetmank or Nick Outin will contact you with directions for setting up an account.
 
----
-
 ### Recurring NCEAS Meetings
 
 There are a number of recurring meetings that you are encouraged to attend.  At your hiring, you should recieve an invitation to the NCEAS Google Calendar which has links to all the meeting information.  These include Coffee Klatch (a coffee social), Hacky Hours, and the Early Career Researcher Community Forum.
+
+---
+
+#### Data Science background and tutorials
+
+For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for SNAPP postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
+
+Chapters [3](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/working-on-a-remote-machine.html), [5](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/introduction-to-r-and-rmarkdown.html), [8](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/linux-and-the-command-line.html) are a good background about the tools we use.
+
+Chapters [9](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-modeling-tidy-data.html), [10](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-cleaning-and-manipulation.html) are a good introduction to data modeling.
+
+#### R self-assessment
+
+Finally, please complete this [R Training Assessment](https://cosima.nceas.ucsb.edu/r-self-assessment/) to self-assess your skills in R.
+
+Schedule a session with Julien to debrief on your experience.
 
 ---
 
