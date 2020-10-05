@@ -20,11 +20,11 @@ Listed below is a mix of papers and tutorials about concepts we aim to promote t
 
 #### Background information
 
-For good background information on the tools that we use, read through the following chapters from a training we did for SNAPP postdoc earlier in the year: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
+For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for SNAPP postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
 
-Chapters 3, 5, 8 are a good background about the tools we use.
+Chapters [3](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/working-on-a-remote-machine.html), [5](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/introduction-to-r-and-rmarkdown.html), [8](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/linux-and-the-command-line.html) are a good background about the tools we use.
 
-Chapters 9, 10 are a good introduction to data modeling.
+Chapters [9](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-modeling-tidy-data.html), [10](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/data-cleaning-and-manipulation.html) are a good introduction to data modeling.
 
 #### R Assessment
 
