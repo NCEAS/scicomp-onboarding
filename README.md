@@ -44,9 +44,7 @@ We rely heavily on GitHub for collaboration, and there are a few things you must
 
 We use a GitHub Enterprise account to keep track of projects and tasks for the Scientific Computing Support of SNAPP working groups.  To be added to the account you must create an NCEAS account.
 
-Follow the directions outlined here:
-
-https://docs.google.com/document/d/1eoR1oDrCrczgbYHPZU_1szB_2fhzu7EUHnh5nFI3eSg/edit
+Follow the directions outlined [here](https://docs.google.com/document/d/1eoR1oDrCrczgbYHPZU_1szB_2fhzu7EUHnh5nFI3eSg/edit)
 
 and send your username to Julien Brun (not the email outlined in the google doc).  After you have been added, you will be able to access the [snapp-wg-scicomp](https://github.nceas.ucsb.edu/SNAPP/snapp-wg-scicomp) GitHub
 
