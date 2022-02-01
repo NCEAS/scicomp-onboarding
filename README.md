@@ -32,11 +32,11 @@ We use a GitHub Enterprise account to keep track of projects and tasks for the S
 
 Follow the directions outlined [here](https://docs.google.com/document/d/1eoR1oDrCrczgbYHPZU_1szB_2fhzu7EUHnh5nFI3eSg/edit)
 
-and send your username to Julien Brun (not the email outlined in the google doc).  After you have been added, you will be able to access the [snapp-wg-scicomp](https://github.nceas.ucsb.edu/SNAPP/snapp-wg-scicomp) GitHub
+and send your username to Julien Brun (not the email outlined in the google doc).  After you have been added, you will be able to access the [lter-wg-scicomp](https://github.nceas.ucsb.edu/LTER/lter-wg-scicomp) GitHub. We will use this repo to track tasks among our team.
 
-##### b. Get added to the SNAPP GitHub account
+##### b. Get added to the LTER GitHub Organization
 
-Register (if you have not already) for a personal GitHub account and send your username to Julien to be added to the [SNAPP GitHub](https://github.com/Science-for-Nature-and-People).  This GitHub has the repositories that you will be directly working with.
+Register (if you have not already) for a personal GitHub account and send your username to Julien to be added to the [LTER GitHub](https://github.com/LTER).  This GitHub has the working groups repositories that you will be directly working with.
 
 ##### c. Complete the NCEAS GitHub tutorial [here](https://nceas.github.io/training-git-intro/getting-started-with-git-rstudio.html)
 
@@ -62,7 +62,7 @@ There are a number of recurring meetings that you are encouraged to attend.  At 
 
 ### Data Science background and tutorials
 
-For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for SNAPP postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
+For good background information on the tools that we use, read through and practice examples of the following chapters from a training we did for postdoc early 2020: https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/index.html
 
 Chapters [3](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/working-on-a-remote-machine.html), [5](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/introduction-to-r-and-rmarkdown.html), [8](https://science-for-nature-and-people.github.io/2020-data-collab-workshop/2020-02-snapp/linux-and-the-command-line.html) are a good background about the tools we use.
 
@@ -82,7 +82,7 @@ Schedule a session with Julien to debrief on your experience.
 
 We submit hours online through [Kronos](https://ucsb.kronos.net/wfc/navigator/logonWithUID).  You should recieve an email at the start of your employment adding you to an email listserv that will send reminders on when to submit your timesheet.
 
-We also have a Google Calendar to create our schedules. Julien will add you if you have not been already.
+We also have a team Google Calendar to manage team events. Julien will add you if you have not been already.
 
 #### UC Path
 
