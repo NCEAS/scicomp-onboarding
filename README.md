@@ -1,8 +1,8 @@
 # Onboarding for new team members on NCEAS Data Science Support Team
 
-This repo is for onboarding materials for new team members (constatnly evolving ressource).
+This repository hosts onboarding materials for new team members on the NCEAS Data Science support team.
 
-Listed below is a mix of papers and tutorials about concepts we aim to promote to the researchers we support and tools and workflows we use in our team.  The goal is to give context about open and reproducible science which NCEAS is promoting in the scientific community.  Also included is information on getting access to the tools you will need and some general information about working at NCEAS.
+Listed below are a mix of references and tutorials on concepts we aim to promote to researchers we support, as well as tools and workflows we use in our team.  The goal is to give context about open and reproducible science principles NCEAS is promoting to the scientific community.  you will also find information on getting access to the tools you will need and some general information about working at NCEAS.
 
 ---
 
